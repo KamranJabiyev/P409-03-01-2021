@@ -1,0 +1,6 @@
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\bin\Debug\StructGenericTypeIndexer.exe.config
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\bin\Debug\StructGenericTypeIndexer.exe
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\bin\Debug\StructGenericTypeIndexer.pdb
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\obj\Debug\StructGenericTypeIndexer.csprojAssemblyReference.cache
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\obj\Debug\StructGenericTypeIndexer.exe
+E:\P409\C#\StructGenericTypeIndexer\StructGenericTypeIndexer\obj\Debug\StructGenericTypeIndexer.pdb
